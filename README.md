@@ -7,3 +7,5 @@ Obtenla en https://corp-up.rrfah.co/get-signup?business-id=cristian-insiders (No
 ADVERTENCIA: No puedes distribuir, descargar, editar o compartir cualquiera de los recursos sin una cuenta corporativa.
 Sino usas esa cuenta enfrentese a las acciones legales que pueden ser impuestas al descargar algun recurso.
 Acepta compartir su direccion (IP) con nosotros para tomar medidas legales en caso de incumplimiento de las normas.
+
+Si usted esta viendo este sitio desde https://cristianinsiders.github.io debera ir de manera forzada a https://github.com/cristianinsiders y buscar el repositorio lively-wallaper-videos
